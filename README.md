@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[DevOps]**
+- 🌱 I’m currently learning **DevOps**
 <!-- - 👯 I’m looking to collaborate on **[Projects or areas you want to collaborate on]** -->
-- 💬 Ask me about **[DevOps,Docker,Kubernetes]**
+- 💬 Ask me about **DevOps,Docker,Kubernetes**
 
 ## 🛠️ Technologies & Tools
 
