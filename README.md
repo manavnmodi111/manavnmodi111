@@ -4,12 +4,9 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[Your current learning focus]**
-- 👯 I’m looking to collaborate on **[Projects or areas you want to collaborate on]**
-- 🤔 I’m looking for help with **[Any specific help you need]**
-- 💬 Ask me about **[Topics you are knowledgeable about]**
-- 📫 How to reach me: **[Your contact information]**
-- ⚡ Fun fact: **[A fun fact about you]**
+- 🌱 I’m currently learning **[DevOps]**
+<!-- - 👯 I’m looking to collaborate on **[Projects or areas you want to collaborate on]** -->
+- 💬 Ask me about **[DevOps,Docker,Kubernetes]**
 
 ## 🛠️ Technologies & Tools
 
@@ -34,10 +31,10 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## 🌟 Projects
 
-- [**Project 1**](https://github.com/manavnmodi111/project1): Brief description of the project.
+<!-- - [**Project 1**](https://github.com/manavnmodi111/project1): Brief description of the project.
 - [**Project 2**](https://github.com/manavnmodi111/project2): Brief description of the project.
 - [**Project 3**](https://github.com/manavnmodi111/project3): Brief description of the project.
-
+-->
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/manavnmodi111)
