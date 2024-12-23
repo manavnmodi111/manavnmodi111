@@ -42,6 +42,6 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/manavnmodi111)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/manavnmodi111)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=ffffff)](mailto:manavnmodi111@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=ffffff)](mailto:manavnmodi@gmail.com.com)
 
 Thanks for visiting my profile! 😊
